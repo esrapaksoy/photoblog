@@ -1,5 +1,5 @@
-Photo Blog
-A little photo grid blog.
+ <h2>Photo Blog </h2>        
+A little photo grid blog     
 
 In this work;
 I used Html and Css.
