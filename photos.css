@@ -1,0 +1,20 @@
+img {
+width:30%;  /*resimlerin her biri %10 genişliğinde oldu.*/
+float:left;
+margin:1.66%; /*%10 boşluk kalmıştı,her bir resmin 2 kenarını da boş bırakmak istedik.3 resim var 6 kenar boşluğu olcak.10/6=1.66 yaptı buna da margin dedik.*/
+
+/*So the math just hit that one more time.*/
+
+}
+
+p{
+   font-family: 'Merriweather', serif;
+   margin-left:1.66%;
+   font-size: 23px;
+   font-weight: 800;
+   text-transform: uppercase;
+   border-bottom:3px solid #f1f1f1;
+   width:30%;
+   padding-bottom:20px;
+}
+
