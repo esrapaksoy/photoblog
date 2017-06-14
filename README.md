@@ -1,5 +1,6 @@
-# photoblog
+Photo Blog
 A little photo grid blog.
+
 In this work;
 I used Html and Css.
 I used google fonts and text transform for title.
